@@ -1,0 +1,43 @@
+.title-table {
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+}
+
+.title-table th {
+    background-color: black;
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+.content-table {
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+}
+
+.content-table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+.content-table ul li{
+    list-style: none;
+}
+
+.about-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.about-table-container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+body {
+    background-size: cover;
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,30 @@
+.hobi-content {
+    text-align: center;
+    padding: 100px;
+}
+
+.hobi-item {
+    display: inline-block;
+    margin-bottom: 80px;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+}
+
+.hobi-item img {
+    display: block;
+    margin: 0 auto 10px;
+    width: 80%;
+    border-radius: 10px;
+}
+
+.hobi-item h3 {
+    font-size: 20px;
+    color: #fff;
+    margin-bottom: 5px;
+}
+
+.hobi-item p {
+    font-size: 16px;
+    color: #fff;
+}
